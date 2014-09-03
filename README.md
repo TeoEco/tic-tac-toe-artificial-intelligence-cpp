@@ -12,4 +12,4 @@ Developed at university as a artificial intelligence subject.
 Source code naming and comments in Italian (that's the language we use in Italy :P)
 
 
-
+![Applet](https://raw.github.com/elvisciotti/tic-tac-toe-artificial-intelligence-cpp/master/screenshot.png)
